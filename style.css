@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    background-image: url(bg.jpg);
+    background-size: contain ;
+}
+h1 {
+    display:inline-block;
+    background-color: rgb(104, 104, 104);
+    height: 48px;
+    width: 23%;
+    font-size: 38px;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+   /* background: -webkit-linear-gradient(#f25b89,#f99b45,);
+   -webkit-background-clip:  ;
+   -webkit-text-fill-color: transparent; */
+}
+.btn{
+    height: 180px;
+    width: 180px;
+    border: 10px solid black;
+    border-radius: 20%;
+    margin: 1rem;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.red {
+    background-color: #f25b89;
+}
+
+.yellow {
+    background-color:#f99b45 ;
+}
+
+.green{
+    background-color: #63aac0;
+}
+
+.purple {
+    background-color: rgb(190, 122, 223) ;
+}
+
+.flash {
+    background-color: white;
+}
