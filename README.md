@@ -1,0 +1,1 @@
+The Simon Says Game is a simple memory game created using HTML, CSS, and JavaScript. In this game, the player must repeat a sequence of colors shown by the game, with the sequence increasing in length as the game progresses. The game continues until the player makes a mistake in repeating the sequence.
